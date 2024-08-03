@@ -10,9 +10,6 @@ Processing: Resume Matcher parses the documents using Python.
 Keyword Extraction: Advanced ML algorithms extract relevant keywords.
 Vector Similarity: Qdrant computes vector similarity.
 Output: Receive tailored recommendations to enhance your resume.
-How to Use
-Clone the Repository:
-git clone https://github.com/srbhr/Resume-Matcher.git
 
 Install Dependencies:
 pip install -r requirements.txt
